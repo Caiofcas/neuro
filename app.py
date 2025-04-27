@@ -50,7 +50,7 @@ questions = {
   },
   "2.2.C": {
     "answers": [
-      ("10", "Cortéx insular"),
+      ("10", "Córtex insular"),
     ] 
   },
   "2.3.A": {
@@ -72,30 +72,33 @@ questions = {
       ("10", "Córtex visual primario"),
     ] 
   },
-  # 2.5
-  # 2.6
-  # 3.1
-  # 3.2
-  # 3.3
-  # 3.4
-  # 3.5
-  # 3.6
-  # 4.1
-  # 4.2
-  # 4.3
-  # 4.4
-  # 5.1
-  # 5.2
-  # 5.3
-  # 5.4
-  # 5.6
-  # 5.10
-  # 5.11
-  # 6.1
-  # 7.1
-  # 7.5
-  # 7.6
 }
+
+todo = [
+  "2.5",
+  "2.6",
+  "3.1",
+  "3.2",
+  "3.3",
+  "3.4",
+  "3.5",
+  "3.6",
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "5.1",
+  "5.2",
+  "5.3",
+  "5.4",
+  "5.6",
+  "5.10",
+  "5.11",
+  "6.1",
+  "7.1",
+  "7.5",
+  "7.6",
+]
 
 def set_question():
   image_key = random.choice(list(questions))
@@ -136,3 +139,10 @@ if user_answer:
       st.markdown(answer)
 
 st.button("New question", on_click=set_question)
+
+
+with st.expander("Status Láminas"):
+  st.markdown("#### Available:")
+  st.code(" ".join(questions.keys()))
+  st.markdown("#### TODO:")
+  st.code(" ".join(todo))
