@@ -34,8 +34,44 @@ questions = {
       ("8", "Vena cerebral superior"),
     ] 
   },
-  # 2.2
-  # 2.3
+  "2.2.A": {
+    "answers": [
+      ("1", "Surco lateral"),
+      ("2", "Giro frontal inferior"),
+      ("3", "Giro precentral"),
+      ("4", "Surco central"),
+      ("5", "Giro poscentral"),
+      ("6", "Giro supramarginal"),
+      ("7", "Lobulillo parietal superior"),
+      ("8", "Giro angular"),
+      ("9", "Giro temporal superior"),
+      ("10", "Córtex insular"),
+    ] 
+  },
+  "2.2.C": {
+    "answers": [
+      ("10", "Cortéx insular"),
+    ] 
+  },
+  "2.3.A": {
+    "answers": [
+      ("1", "Área de Broca"),
+      ("2", "Campos oculares frontales"),
+      ("3", "Córtex premotor y motor suplementario"),
+      ("4", "Córtex motor primario lateral"),
+      ("5", "Córtex somatosensitivo primario lateral"),
+      ("6", "Córtex auditivo primario"),
+      ("7", "Giro temporal medio"),
+      ("8", "Área de Wernicke"),
+      ("9", "Lobulillo parietal superior"),
+      ("10", "Córtex visual primario"),
+    ] 
+  },
+  "2.3.B": {
+    "answers": [
+      ("10", "Córtex visual primario"),
+    ] 
+  },
   # 2.5
   # 2.6
   # 3.1
