@@ -233,17 +233,177 @@ questions = {
             ("15", "Tractos vestibuloespinales"),
         ],
     },
+    "4.1": {
+        "answers": [
+            ("1", "Asta anterior del ventrículo lateral izquierdo"),
+            ("2", "Cuerpo del ventrículo lateral izquierdo"),
+            ("3", "Asta temporal del ventrículo lateral izquierdo"),
+            ("4", "Asta occipital del ventrículo lateral izquierdo"),
+            ("5", "Acueducto cerebral (de Silvio)"),
+            ("6", "Cuarto ventrículo"),
+            ("7", "Orificio medio (foramen de Magendie)"),
+            ("8", "Tercer ventrículo"),
+            ("9", "Foramen interventricular de Monro"),
+        ],
+    },
+    "4.2": {
+        "answers": [
+            ("1", "Plexo coroideo del tercer ventrículo"),
+            ("2", "Foramen interventricular de Monro"),
+            ("3", "Tálamo"),
+            ("4", "Lámina terminal"),
+            ("5", "Colículos superiores e inferiores"),
+            ("6", "Puente"),
+            ("7", "Cuarto ventrículo"),
+            ("8", "Amígdala del cerebelo"),
+            ("9", "Orificio medio de Magendie"),
+            ("10", "Acueducto cerebral (de Silvio)"),
+            ("11", "Plexo coroideo del cuarto ventrículo"),
+        ],
+    },
+    "4.3": {
+        "answers": [
+            ("1", "Venas puente"),
+            ("2", "Plexo coroideo del ventrículo lateral"),
+            ("3", "Seno sagital superior"),
+            ("4", "Espacio subaracnoideo"),
+            ("5", "Granulaciones aracnoideas"),
+            ("6", "Cisterna de la vena cerebral magna (de Galeno)"),
+            ("7", "Cisterna magna"),
+            ("8", "Plexo coroideo del cuarto ventrículo"),
+            ("9", "Cisterna prepontina"),
+            ("10", "Cisterna interpeduncular"),
+            ("11", "Plexo coroideo del tercer ventrículo"),
+            ("12", "Cisterna quiasmática"),
+          ],
+    },
+    "4.4.A": {
+        "answers": [
+            ("1", "Arteria carótida externa derecha"),
+            ("2", "Arterias cerebrales anteriores"),
+            ("3", "Arteria comunicante anterior"),
+            ("4", "Arterias comunicantes posteriores"),
+            ("5", "Arteria meningea media"),
+            ("6", "Arterias cerebrales posteriores"),
+            ("7", "Arteria basilar"),
+            ("8", "Arteria carótida interna derecha"),
+            ("9", "Arterias vertebrales"),
+            ("10", "Arteria carótida común derecha"),
+            ("11", "Arterias cerebrales medias"),
+          ],
+    },
+    "4.4.B": {
+        "answers": [
+            ("2", "Arterias cerebrales anteriores"),
+            ("3", "Arteria comunicante anterior"),
+            ("4", "Arterias comunicantes posteriores"),
+            ("6", "Arterias cerebrales posteriores"),
+            ("7", "Arteria basilar"),
+            ("9", "Arterias vertebrales"),
+            ("11", "Arterias cerebrales medias"),
+            ("12", "Arteria espinal anterior"),
+            ("13", "Polígono de Willis (línea de puntos)"),
+          ],
+    },
+    "5.1": {
+        "answers": [
+            ("1", "Asta dorsal de la médula espinal"),
+            ("2", "Raíz dorsal"),
+            ("3", "Ganglio de la raíz dorsal"),
+            ("4", "Corpúsculo de Pacini"),
+            ("5", "Fibras musculares esqueléticas con la placa terminal motora"),
+            ("6", "Terminación nerviosa libre"),
+            ("7", "Raíz ventral"),
+            ("8", "Asta ventral de la médula espinal"),
+            ("9", "Ganglio simpático colateral"),
+            ("10", "Nervio esplácnico"),
+            ("11", "Ganglio de la cadena simpática"),
+            ("12", "Asta lateral de la médula espinal"),
+          ],
+    },
+    "5.2.A": {
+        "answers": [
+            ("1", "Vasa nervorum (vasos longitudinales)"),
+            ("2", "Epineuro (capas interna y externa)"),
+            ("3", "Fascículos"),
+            ("4", "Haces de fibras nerviosas en un fascículo"),
+            ("5", "Perineuro"),
+            ("6", "Axones en los haces de fibras nerviosas en los fascículos"),
+          ],
+    },
+    "5.2.B": {
+        "answers": [
+            ("7", "Axones intactos"),
+            ("8", "Vaina de mielina"),
+            ("9", "Axones en disolución"),
+          ],
+    },
+    "5.2.C": {
+        "answers": [
+            ("2", "Epineuro (capas interna y externa)"),
+            ("5", "Perineuro"),
+            ("8", "Vaina de mielina"),
+            ("10", "Endoneuro"),
+          ],
+    },
+    "5.3.A": {
+        "answers": [
+            ("1", "Intumescencia cervical de la médula espinal",)
+            ("2", "Intumescencia lumbar de la médula espinal",)
+            ("3", "Cono medular",)
+            ("4", "Cauda equina (cola de caballo)",)
+            ("5", "Filum terminal",)
+          ],
+    },
+    "5.3.B": {
+        "answers": [
+            ("6", "Núcleo pulposo del disco intervertebral",)
+            ("7", "Raíz nerviosa comprimida por el núcleo pulposo herniado",)
+        ],
+    },
+    "5.3.C": {
+        "answers": [
+            ("8", "Hernia de un disco intervertebral",)
+            ("9", "Disco intervertebral",)
+        ],
+    },
+    "5.3.D": {
+        "answers": [
+            ("6", "Núcleo pulposo del disco intervertebral",)
+            ("7", "Raíz nerviosa comprimida por el núcleo pulposo herniado",)
+            ("8", "Hernia de un disco intervertebral",)
+            ("9", "Disco intervertebral",)
+        ],
+    },
+    "5.3.E": {
+        "answers": [
+            ("6", "Núcleo pulposo del disco intervertebral",)
+            ("7", "Raíz nerviosa comprimida por el núcleo pulposo herniado",)
+        ],
+    },
+    "5.4.A": {
+        "answers": [
+            ("1", "Cuerpo de una célula sensitiva primaria"),
+            ("2", "Axón sensitivo amielínico"),
+            ("3", "Axón sensitivo mielínico"),
+            ("4", "Terminación nerviosa libre"),
+            ("5", "Huso muscular"),
+            ("6", "Motoneurona inferior"),
+            ("7", "Fibras musculares esqueléticas"),
+        ],
+    },
+    "5.4.B": {
+        "answers": [
+            ("1", "Cuerpo de una célula sensitiva primaria"),
+            ("3", "Axón sensitivo mielínico"),
+            ("5", "Huso muscular"),
+            ("8", "Tracto espinocerebeloso"),
+            ("9", "Neuronas sensitivas secundarias de los sistemas espinocerebelosos"),
+        ],
+    },
 }
 
 todo = [
-    "4.1",
-    "4.2",
-    "4.3",
-    "4.4",
-    "5.1",
-    "5.2",
-    "5.3",
-    "5.4",
     "5.6",
     "5.10",
     "5.11",
