@@ -348,11 +348,11 @@ questions = {
     },
     "5.3.A": {
         "answers": [
-            ("1", "Intumescencia cervical de la médula espinal",)
-            ("2", "Intumescencia lumbar de la médula espinal",)
-            ("3", "Cono medular",)
-            ("4", "Cauda equina (cola de caballo)",)
-            ("5", "Filum terminal",)
+            ("1", "Intumescencia cervical de la médula espinal",),
+            ("2", "Intumescencia lumbar de la médula espinal",),
+            ("3", "Cono medular",),
+            ("4", "Cauda equina (cola de caballo)",),
+            ("5", "Filum terminal",),
           ],
     },
     "5.3.B": {
