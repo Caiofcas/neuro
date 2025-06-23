@@ -357,28 +357,28 @@ questions = {
     },
     "5.3.B": {
         "answers": [
-            ("6", "Núcleo pulposo del disco intervertebral",)
-            ("7", "Raíz nerviosa comprimida por el núcleo pulposo herniado",)
+            ("6", "Núcleo pulposo del disco intervertebral",),
+            ("7", "Raíz nerviosa comprimida por el núcleo pulposo herniado",),
         ],
     },
     "5.3.C": {
         "answers": [
-            ("8", "Hernia de un disco intervertebral",)
-            ("9", "Disco intervertebral",)
+            ("8", "Hernia de un disco intervertebral",),
+            ("9", "Disco intervertebral",),
         ],
     },
     "5.3.D": {
         "answers": [
-            ("6", "Núcleo pulposo del disco intervertebral",)
-            ("7", "Raíz nerviosa comprimida por el núcleo pulposo herniado",)
-            ("8", "Hernia de un disco intervertebral",)
-            ("9", "Disco intervertebral",)
+            ("6", "Núcleo pulposo del disco intervertebral",),
+            ("7", "Raíz nerviosa comprimida por el núcleo pulposo herniado",),
+            ("8", "Hernia de un disco intervertebral",),
+            ("9", "Disco intervertebral",),
         ],
     },
     "5.3.E": {
         "answers": [
-            ("6", "Núcleo pulposo del disco intervertebral",)
-            ("7", "Raíz nerviosa comprimida por el núcleo pulposo herniado",)
+            ("6", "Núcleo pulposo del disco intervertebral",),
+            ("7", "Raíz nerviosa comprimida por el núcleo pulposo herniado",),
         ],
     },
     "5.4.A": {
